@@ -1,6 +1,7 @@
 title {
 text-align: center;
 }
+
 header{
     font-size: 36px;
     text-align: center;
@@ -9,6 +10,11 @@ header{
 body {
     background-color: rgb(134, 93, 146);
 }
+
 #line{
     border-color: black;
+}
+
+#techExp {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
