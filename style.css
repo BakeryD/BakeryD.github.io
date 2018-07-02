@@ -1,7 +1,14 @@
 title {
 text-align: center;
 }
+header{
+    font-size: 36px;
+    text-align: center;
+}
 
 body {
-    background-color: rgb(122, 122, 122);
+    background-color: rgb(134, 93, 146);
+}
+#line{
+    border-color: black;
 }
