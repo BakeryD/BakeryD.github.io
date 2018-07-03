@@ -1,20 +1,30 @@
-title {
-text-align: center;
-}
-
 header{
+    font-family:Roboto, sans-serif;
     font-size: 36px;
-    text-align: center;
 }
+/* CSS comment */
 
 body {
-    background-color: rgb(134, 93, 146);
+    background-color: rgba(167, 167, 167, 0.692);
 }
 
-#line{
+#line {
     border-color: black;
 }
 
-#techExp {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#contact-info{
+    font-family: "Roboto Condensed";
 }
+
+.section-header {
+    font-family: "Roboto Condensed",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-family: "Roboto Condensed",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#date {
+float: right;
+font-size: .8rem;
+}
+
